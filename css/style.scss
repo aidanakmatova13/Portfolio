@@ -469,18 +469,15 @@ dl, ol, ul {
   margin-top: 0;
   margin-bottom: 1rem;
 }
-
 .home-section .circles li:nth-child(1) {
   left: 25%;
   width: 80px;
   height: 80px;
   animation-delay: 0s;
 }
-
 .home-section .circles li {
   background: orange;
 }
-
 .home-section .circles li {
   position: absolute;
   display: block;
@@ -490,7 +487,6 @@ dl, ol, ul {
   animation: animate 20s linear infinite;
   bottom: -150px;
 }
-
 .home-section .circles li:nth-child(1) {
   left: 25%;
   width: 80px;
